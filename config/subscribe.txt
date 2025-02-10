@@ -15,9 +15,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://github.com/Ftindy/IPTV-URL/blob/main/SXYD.m3u
-https://github.com/Ftindy/IPTV-URL/blob/main/bestv.m3u
-https://github.com/Ftindy/IPTV-URL/blob/main/sxg.m3u
-https://github.com/Ftindy/IPTV-URL/blob/main/gdcucc.m3u
-https://github.com/Ftindy/IPTV-URL/blob/main/cqyx.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://tst.hurenlq-71.us.kg/Collect.m3u
