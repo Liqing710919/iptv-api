@@ -20,3 +20,4 @@ https://github.com/Ftindy/IPTV-URL/blob/main/bestv.m3u
 https://github.com/Ftindy/IPTV-URL/blob/main/sxg.m3u
 https://github.com/Ftindy/IPTV-URL/blob/main/gdcucc.m3u
 https://github.com/Ftindy/IPTV-URL/blob/main/cqyx.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
